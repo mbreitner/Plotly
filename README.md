@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Belly Button Biodiversity
 
-You can use the [editor on GitHub](https://github.com/mbreitner/Plotly/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Purpose of the Repository
+The purpose of this repo is to publish a site that takes the results of our research on belly buttons and displays the data in multiple charts for an easy to read anaylsis. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I used my skills in Javascript to read in data from a JSON file, build charts from that data using Plotly, and then utiizing github pages to display my findings. 
 
-### Markdown
+### Bar Chart
+![Bar_Chart](https://user-images.githubusercontent.com/84791455/132139765-6d32db70-9232-45c3-8ee8-7d4bb3481d10.PNG)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Gauge Chart
+![Gauge_Chart](https://user-images.githubusercontent.com/84791455/132139767-9876a7b2-ce7b-4838-b170-f541a66f06d5.PNG)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Bubble Chart
+![Bubble_Chart](https://user-images.githubusercontent.com/84791455/132139774-d73b34a9-4ecc-456f-857b-0be171aa7ec4.PNG)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mbreitner/Plotly/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
